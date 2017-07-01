@@ -1,0 +1,2 @@
+c:\_xamforms\AppRouletteNetFlix\AppRouletteNetFlix\AppRouletteNetFlix.Windows\AppRouletteNetFlix.Windows.csproj;neutral
+c:\_xamforms\AppRouletteNetFlix\AppRouletteNetFlix\AppRouletteNetFlix\AppRouletteNetFlix.csproj;neutral
